@@ -4,3 +4,8 @@
 venv/
 .venv/
 env/
+.venv 
+
+# Other
+downloads/
+downloads
