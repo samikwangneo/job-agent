@@ -1,0 +1,10 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-generativeai>=0.3.0
+
+playwright
+beautifulsoup4
+lxml
+python-dotenv
+google-adk 
